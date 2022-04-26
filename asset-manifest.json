@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pantawitbrs/static/css/main.839f5058.css",
-    "main.js": "/pantawitbrs/static/js/main.4fe8231d.js",
+    "main.js": "/pantawitbrs/static/js/main.198a347d.js",
     "static/js/787.bcea9405.chunk.js": "/pantawitbrs/static/js/787.bcea9405.chunk.js",
     "static/media/web-oldposh.png": "/pantawitbrs/static/media/web-oldposh.1c6200b6ad2255828f06.png",
     "static/media/web-exe.png": "/pantawitbrs/static/media/web-exe.2009ec556ecf102919f3.png",
@@ -17,11 +17,11 @@
     "static/media/1dd-logo.svg": "/pantawitbrs/static/media/1dd-logo.a8c264f651937c0bb390ab188a023c06.svg",
     "index.html": "/pantawitbrs/index.html",
     "main.839f5058.css.map": "/pantawitbrs/static/css/main.839f5058.css.map",
-    "main.4fe8231d.js.map": "/pantawitbrs/static/js/main.4fe8231d.js.map",
+    "main.198a347d.js.map": "/pantawitbrs/static/js/main.198a347d.js.map",
     "787.bcea9405.chunk.js.map": "/pantawitbrs/static/js/787.bcea9405.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.839f5058.css",
-    "static/js/main.4fe8231d.js"
+    "static/js/main.198a347d.js"
   ]
 }
