@@ -1,0 +1,16 @@
+.welcome {
+  background-image: url("../assests/videos/hi_in-out.gif");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+a {
+  color: black;
+  cursor: pointer;
+  text-decoration-color: rgba(0, 0, 0, 0);
+}
+a:hover {
+  text-decoration: underline;
+  opacity: 100;
+  transition: 0.3s;
+}
