@@ -9,9 +9,9 @@ const about = () => {
             Pantawit Burasirirak
           </h3>
           <div class="text-lg font-normal md:text-base">
-            <p>Hi! I'm Tor.👋🏼</p>
+            <p>hi!👋🏼</p>
             <br/>
-            developer with 2 year experience🧑🏻‍💻
+            <p>developer with 2 year experience🧑🏻‍💻</p>
 
             {/* <p>
               I am a junior frontend developer with 6-7 month of experience.

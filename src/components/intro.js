@@ -10,7 +10,6 @@ const intro = () => {
         width="200"
       />
       <h2 class="text-4xl font-normal md:text-xl">
-        Hello, I am Tor.
         {/* I have an interest in frontend developer,
         <br />
         however, I'm determined to develop
@@ -20,9 +19,8 @@ const intro = () => {
         <br />
         <br />
       </h2>
-      <p>full-time 1dd dev🦦</p>
-      <br />
       <p>part-time home dev🦭</p>
+      <p>full-time 1dd dev🦦</p>
     </div>
   );
 };

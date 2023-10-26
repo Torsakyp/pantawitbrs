@@ -5,7 +5,7 @@ const navbar = () => {
     <div id="nav-sec" class="absolute z-10 w-full top-0">
       <div class="relative flex items-center justify-between mt-10 mb-20">
         <div>
-          <h1 class="font-medium"> T&nbsp;|&nbsp;P&nbsp;B ---</h1>
+          <h1 class="font-medium"> T.🪩</h1>
         </div>
         <div class="flex w-60 items-center justify-between font-normal md:hidden">
           <a href="#company-sec">Work</a>
