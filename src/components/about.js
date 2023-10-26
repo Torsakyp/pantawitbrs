@@ -9,7 +9,6 @@ const about = () => {
             Pantawit Burasirirak
           </h3>
           <div class="text-lg font-normal md:text-base">
-            <p>hi!👋🏼</p>
             <p>developer with 2 year experience🧑🏻‍💻</p>
             <br/>
             <p>part-time home dev🦭</p>
