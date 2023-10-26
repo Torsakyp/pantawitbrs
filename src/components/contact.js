@@ -11,7 +11,7 @@ const contact = () => {
           <ul class="list-none">
             <li class="py-3">
               <a
-                href="mailto:pantawit.brs@gmail.com"
+                href="mailto:pantawit.work@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
