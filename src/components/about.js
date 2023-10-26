@@ -10,9 +10,10 @@ const about = () => {
           </h3>
           <div class="text-lg font-normal md:text-base">
             <p>hi!👋🏼</p>
-            <br/>
             <p>developer with 2 year experience🧑🏻‍💻</p>
-
+            <br/>
+            <p>part-time home dev🦭</p>
+            <p>full-time 1dd dev🦦</p>
             {/* <p>
               I am a junior frontend developer with 6-7 month of experience.
               <br class="md:hidden" /> I have an interest in frontend developer
