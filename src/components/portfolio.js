@@ -11,7 +11,7 @@ function Portfolio() {
   return (
     <div class="relative max-w-7xl mx-auto my-0 w-full">
       <Navbar />
-      <section class="relative flex items-center justify-center h-screen w-full welcome">
+      <section class="relative flex items-center justify-center h-screen w-full">
         <h1 class="text-6xl font-medium md:text-3xl">
           👋🏼&nbsp; Hi, I'm Tor! <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Frontend

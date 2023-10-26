@@ -10,21 +10,19 @@ const intro = () => {
         width="200"
       />
       <h2 class="text-4xl font-normal md:text-xl">
-        Hello, I am Pantawit.
-        <br />
-        <br />
+        Hello, I am Tor.
         {/* I have an interest in frontend developer,
         <br />
         however, I'm determined to develop
         <br />
         myself as a backend and full-stack.
         <br /> */}
-        ??? mean i can't remember :P
         <br />
         <br />
-        <br />
-        👇🏼 Let's see what I did 👇🏼
       </h2>
+      <p>full-time 1dd dev🦦</p>
+      <br />
+      <p>part-time home dev🦭</p>
     </div>
   );
 };

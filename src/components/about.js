@@ -10,6 +10,9 @@ const about = () => {
           </h3>
           <div class="text-lg font-normal md:text-base">
             <p>Hi! I'm Tor.👋🏼</p>
+            <br/>
+            developer with 2 year experience🧑🏻‍💻
+
             {/* <p>
               I am a junior frontend developer with 6-7 month of experience.
               <br class="md:hidden" /> I have an interest in frontend developer
@@ -49,68 +52,6 @@ const about = () => {
           width="100%"
           height="auto"
         />
-        <div>
-          <h3 class="text-2xl font-normal text-neutral-400 mb-5 md:text-xl">
-            EDUCATION
-          </h3>
-          <div class="mb-4">
-            <p class="text-lg font-semibold md:text-base">
-              Prasarnmit Demonstration School (Secondary)
-            </p>
-            <p class="text-lg font-normal md:text-base">
-              Computer Major , Thialand | 2015 - 2018
-            </p>
-          </div>
-          <div class="mb-4">
-            <p class="text-lg font-semibold md:text-base">
-              King Monngkt’s University of Technology North Bangkok
-            </p>
-            <p class="text-lg font-normal">
-              Computer Science(CS) , Thailand | 2018 - 2022
-            </p>
-          </div>
-        </div>
-        <div>
-          <h3 class="text-2xl font-normal text-neutral-400 mb-5 md:text-xl">
-            WORK EXPERIENCE
-          </h3>
-          <div class="mb-4">
-            <p class="text-lg font-semibold md:text-base">
-              Logic Space Co., Ltd (Intern)
-            </p>
-            <p class="text-lg font-normal">Graphic Design | Mar - Apr 2017</p>
-          </div>
-          <div class="mb-4">
-            <p class="text-lg font-semibold md:text-base">
-              1DD Hub Co., Ltd (Intern)
-            </p>
-            <p class="text-lg font-normal md:text-base">
-              Front End Developer | May - Aug 2021
-            </p>
-          </div>
-          <div class="mb-4">
-            <p class="text-lg font-semibold md:text-base">
-              1DD Hub Co., Ltd (Part-time)
-            </p>
-            <p class="text-lg font-normal md:text-base">
-              Front End Developer | Aug - Nov 2021
-            </p>
-          </div>
-          <div class="mb-4">
-            <p class="text-lg font-semibold md:text-base">
-              Sand Studio & Co. (Intern)
-            </p>
-            <p class="text-lg font-normal md:text-base">
-              Front End Developer | Jul - Oct 2022
-            </p>
-          </div>
-          <div class="mb-4">
-            <p class="text-lg font-semibold md:text-base">
-              Working Now👨🏻‍💻 (Full-time)
-            </p>
-            <p class="text-lg font-normal md:text-base">Front End Developer</p>
-          </div>
-        </div>
       </div>
     </div>
   );
