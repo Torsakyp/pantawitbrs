@@ -28,7 +28,7 @@ const navbar = () => {
               <a href="#abt-sec">About</a>
             </li>
             <li class="md:p-0.5">
-              <a href="#con-sec">Contact 1</a>
+              <a href="#con-sec">Contact</a>
             </li>
             {/* <li class="md:p-0.5">
               <a
