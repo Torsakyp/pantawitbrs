@@ -61,7 +61,7 @@ function Portfolio() {
           click="live product"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
-        <Work
+        {/* <Work
           title="Portfolio"
           span="Portfolio Website"
           imgurl={require("../assests/images/web-me.png")}
@@ -72,9 +72,9 @@ function Portfolio() {
           period="Feb 2022"
           techs="VScode, Tailwind, React"
           click="live product"
-        />
+        /> */}
         <hr class="my-10 h-px border-none bg-neutral-400" />
-        <Work
+        {/* <Work
           title="Lazy Dimension"
           span="Portfolio Website"
           imgurl={require("../assests/images/web-pai.png")}
@@ -85,7 +85,7 @@ function Portfolio() {
           period="Apr 2022"
           techs="Webflow, JavaScript, VScode"
           click="live product"
-        />
+        /> */}
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
           title="Sand Studio"
@@ -144,7 +144,7 @@ function Portfolio() {
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
           alt="web-join-me"
-          weburl="mailto:pantawit.brs@gmail.com"
+          weburl="mailto:pantawit.work@gmail.com"
           cate="frontend developer , anything else"
           page="_self"
           period="-"
