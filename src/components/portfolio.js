@@ -30,7 +30,7 @@ function Portfolio() {
           weburl="https://abhakara.org/"
           cate="frontend developer(desktop/mobile)"
           page="_blank"
-          period="Aug - Sep 2021"
+          period="2021"
           techs="Webflow, JavaScript"
           click="live product"
         />
@@ -43,7 +43,7 @@ function Portfolio() {
           weburl="http://excellency.co.th/"
           cate="frontend developer(desktop/mobile)"
           page="_blank"
-          period="Sep - Oct 2021"
+          period="2021"
           techs="Webflow, JavaScript"
           click="live product"
         />
@@ -56,7 +56,7 @@ function Portfolio() {
           weburl="http://oldposh.com/"
           cate="frontend developer(desktop/mobile)"
           page="_blank"
-          period="Oct - Nov 2021"
+          period="2021"
           techs="Webflow, JavaScript"
           click="live product"
         />
@@ -73,7 +73,7 @@ function Portfolio() {
           techs="VScode, Tailwind, React"
           click="live product"
         /> */}
-        <hr class="my-10 h-px border-none bg-neutral-400" />
+        {/* <hr class="my-10 h-px border-none bg-neutral-400" /> */}
         {/* <Work
           title="Lazy Dimension"
           span="Portfolio Website"
@@ -86,7 +86,7 @@ function Portfolio() {
           techs="Webflow, JavaScript, VScode"
           click="live product"
         /> */}
-        <hr class="my-10 h-px border-none bg-neutral-400" />
+        {/* <hr class="my-10 h-px border-none bg-neutral-400" /> */}
         <Work
           title="Sand Studio"
           span="Corporate Website"
@@ -95,7 +95,7 @@ function Portfolio() {
           weburl="https://sandstudio.co/"
           cate="frontend developer(desktop/mobile)"
           page="_blank"
-          period="Jul - Dec 2022"
+          period="2022"
           techs="Webflow, JavaScript, VScode"
           click="live product"
         />
@@ -108,7 +108,7 @@ function Portfolio() {
           weburl="https://www.studio360th.com"
           cate="frontend developer(desktop/mobile)"
           page="_blank"
-          period="??? - ??? 2023"
+          period="2023"
           techs="Webflow, JavaScript, VScode"
           click="live product"
         />
@@ -121,7 +121,7 @@ function Portfolio() {
           weburl="https://easyvisa.in.th"
           cate="frontend developer(desktop/mobile)"
           page="_blank"
-          period="??? - ??? 2023"
+          period="2023"
           techs="Webflow, JavaScript, VScode"
           click="live product"
         />
@@ -134,7 +134,7 @@ function Portfolio() {
           weburl="https://www.pavaragroup.com/"
           cate="frontend developer(desktop/mobile)"
           page="_blank"
-          period="??? - ??? 2023"
+          period="2023"
           techs="Webflow, JavaScript"
           click="live product"
         />
