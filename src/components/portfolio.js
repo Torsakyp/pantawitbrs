@@ -23,6 +23,19 @@ function Portfolio() {
         <Company />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Maison Hotel"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-maison.png")}
+          alt="web-maison"
+          weburl="https://maisonhotelbangkok.com/"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2021"
+          techs="Webflow, JavaScript"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="abhakara"
           span="Single Page Website"
           imgurl={require("../assests/images/web-abhakara.png")}
@@ -114,6 +127,19 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Kinnom"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-kinnom.png")}
+          alt="web-kinnom"
+          weburl="https://kinnom.co/"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2023"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="Easy Visa"
           span="Corporate Website"
           imgurl={require("../assests/images/web-easyvisa.png")}
@@ -127,6 +153,19 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="GamingDose"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-gamingdose.png")}
+          alt="web-gameingdose"
+          weburl="https://www.gamingdose.com/"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2023"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="Pavara"
           span="Corporate Website"
           imgurl={require("../assests/images/web-pavara.png")}
@@ -136,6 +175,45 @@ function Portfolio() {
           page="_blank"
           period="2023"
           techs="Webflow, JavaScript"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
+          title="Okamura"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-okamura.png")}
+          alt="web-okamura"
+          weburl="https://www.okamura.co.th/"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2023"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
+          title="SM"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-sm.png")}
+          alt="web-sm"
+          weburl="https://www.smlubritech1.com/"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2023"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
+          title="hibiki"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-hibiki.png")}
+          alt="web-hibiki"
+          weburl="https://www.hibikibrand.com/"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2023"
+          techs="Wordpress, JavaScript, VScode"
           click="live product"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
