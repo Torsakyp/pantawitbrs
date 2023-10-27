@@ -194,7 +194,7 @@ function Portfolio() {
         <Work
           title="SM"
           span="Corporate Website"
-          imgurl={require("../assests/images/web-sm.png")}
+          imgurl={require("../assests/images/web-SM.png")}
           alt="web-sm"
           weburl="https://www.smlubritech1.com/"
           cate="frontend developer(desktop/mobile)"
