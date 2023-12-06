@@ -6,7 +6,7 @@ const company = () => {
     <div id="company-sec">
       <div class="flex flex-col items-center w-full px-10 ">
         <p class="font-medium"> Company I have worked with </p>
-        <div class="grid grid-cols-5 justify-items-center w-full mt-12 md:grid-cols-2 md:gap-y-10">
+        <div class="grid grid-cols-5 justify-items-center w-full mt-12 gap-y-10 md:grid-cols-2 md:gap-y-10">
           <img
             src={require("../assests/images/logicspace-logo.png")}
             alt="logicspace-logo"
