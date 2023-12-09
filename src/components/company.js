@@ -26,12 +26,12 @@ const company = () => {
             width="100"
             class="m-auto"
           />
-          {/* <img
+          <img
             src={require("../assests/images/untitled.jpeg")}
             alt="bemo-logo"
             width="100"
             class="m-auto"
-          /> */}
+          />
           <img
             src={require("../assests/images/wait2-logo.png")}
             alt="wait-and-logo"
