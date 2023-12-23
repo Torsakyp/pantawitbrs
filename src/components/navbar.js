@@ -9,7 +9,7 @@ const navbar = () => {
         </div>
         <div class="flex w-60 items-center justify-between font-normal md:hidden">
           <a href="#company-sec">Work</a>
-          <a href="#abt-sec">About</a>
+          {/* <a href="#abt-sec">About</a> */}
           <a href="#con-sec">Contact</a>
           {/* <a
             href="https://drive.google.com/file/d/1Q_oY6FhQ-pKm0mdn7ttJzRHk4dVINtd7/view?usp=sharing"
