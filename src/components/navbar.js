@@ -7,7 +7,7 @@ const navbar = () => {
         <div>
           <h1 class="font-medium"> T.🪩</h1>
         </div>
-        <div class="flex w-60 items-center justify-between font-normal md:hidden">
+        <div class="flex w-36 items-center justify-between font-normal md:hidden">
           <a href="#company-sec">Work</a>
           {/* <a href="#abt-sec">About</a> */}
           <a href="#con-sec">Contact</a>
