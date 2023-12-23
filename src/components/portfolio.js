@@ -234,7 +234,7 @@ function Portfolio() {
           title="TEB"
           span="Corporate Website"
           imgurl={require("../assests/images/web-teb.png")}
-          alt="web-untitled-lab"
+          alt="web-teb"
           weburl="https://www.teb.co.th"
           cate="frontend developer(desktop/mobile)"
           page="_blank"
