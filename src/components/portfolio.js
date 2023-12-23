@@ -259,7 +259,6 @@ function Portfolio() {
       </section>
       {/* <About /> */}
       <Contact />
-      <ScrollToTop smooth />
     </div>
   );
 }
