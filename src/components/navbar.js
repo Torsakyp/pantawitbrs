@@ -24,9 +24,9 @@ const navbar = () => {
             <li class="md:p-0.5">
               <a href="#company-sec">Work</a>
             </li>
-            <li class="md:p-0.5">
+            {/* <li class="md:p-0.5">
               <a href="#abt-sec">About</a>
-            </li>
+            </li> */}
             <li class="md:p-0.5">
               <a href="#con-sec">Contact</a>
             </li>
