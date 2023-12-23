@@ -257,7 +257,7 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
       </section>
-      <About />
+      {/* <About /> */}
       <Contact />
       <ScrollToTop smooth />
     </div>
