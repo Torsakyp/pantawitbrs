@@ -231,6 +231,19 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="TEB"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-teb.png")}
+          alt="web-untitled-lab"
+          weburl="https://www.teb.co.th"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2023"
+          techs="Webflow, JavaScript"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
