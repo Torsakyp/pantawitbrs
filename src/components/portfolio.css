@@ -14,3 +14,7 @@ a:hover {
   opacity: 100;
   transition: 0.3s;
 }
+
+body::-webkit-scrollbar {
+  display: none;
+}

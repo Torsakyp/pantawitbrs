@@ -5,7 +5,7 @@ import Intro from "./intro";
 import Company from "./company";
 import About from "./about";
 import Contact from "./contact";
-import ScrollToTop from "react-scroll-to-top";
+// import ScrollToTop from "react-scroll-to-top";
 
 function Portfolio() {
   return (
