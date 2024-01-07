@@ -28,7 +28,13 @@ const company = () => {
           />
           <img
             src={require("../assests/images/untitled.jpeg")}
-            alt="bemo-logo"
+            alt="untitled-logo"
+            width="100"
+            class="m-auto"
+          />
+          <img
+            src={require("../assests/images/nirin-logo.jpg")}
+            alt="nirin-logo"
             width="100"
             class="m-auto"
           />
