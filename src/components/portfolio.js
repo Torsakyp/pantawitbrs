@@ -244,6 +244,32 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Seire Collective" 
+          span="Ecommerce Website"
+          imgurl={require("../assests/images/web-seire.png")}
+          alt="web-seire"
+          weburl="https://seirecollective.com/"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2024"
+          techs="Shopify, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
+          title="Torry's" 
+          span="Ecommerce Website"
+          imgurl={require("../assests/images/web-torrys.png")}
+          alt="web-torrys"
+          weburl="https://www.torrys.com/"
+          cate="backend developer"
+          page="_blank"
+          period="2024"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
