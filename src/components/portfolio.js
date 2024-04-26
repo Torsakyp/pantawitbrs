@@ -36,7 +36,7 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
-          title="abhakara"
+          title="Abhakara"
           span="Single Page Website"
           imgurl={require("../assests/images/web-abhakara.png")}
           alt="web-abhakara"
@@ -49,7 +49,7 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
-          title="excellency"
+          title="Excellency"
           span="Corporate Website"
           imgurl={require("../assests/images/web-exe.png")}
           alt="web-exe"
@@ -62,7 +62,7 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
-          title="oldposh"
+          title="Oldposh"
           span="Ecommerce Website"
           imgurl={require("../assests/images/web-oldposh.png")}
           alt="web-oldposh"
@@ -154,7 +154,7 @@ function Portfolio() {
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
           title="GamingDose"
-          span="Corporate Website"
+          span="News Website"
           imgurl={require("../assests/images/web-gamingdose.png")}
           alt="web-gameingdose"
           weburl="https://www.gamingdose.com/"
@@ -244,12 +244,12 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
-          title="Seire Collective" 
+          title="Seire Collective"
           span="Ecommerce Website"
           imgurl={require("../assests/images/web-seire.png")}
           alt="web-seire"
           weburl="https://seirecollective.com/"
-          cate="frontend developer(desktop/mobile)"
+          cate="full-stack developer"
           page="_blank"
           period="2024"
           techs="Shopify, JavaScript, VScode"
@@ -257,12 +257,25 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
-          title="Torry's" 
+          title="Torry's"
           span="Ecommerce Website"
           imgurl={require("../assests/images/web-torrys.png")}
           alt="web-torrys"
           weburl="https://www.torrys.com/"
           cate="backend developer"
+          page="_blank"
+          period="2024"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
+          title="Environman"
+          span="Blog Website"
+          imgurl={require("../assests/images/web-environman.png")}
+          alt="web-environman"
+          weburl="https://environman.co.th/"
+          cate="full-stack developer"
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
