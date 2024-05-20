@@ -283,6 +283,19 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="UNI"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-uni.png")}
+          alt="web-uni"
+          weburl="https://www.un-titledlab.com/uni"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2024"
+          techs="Webflow, JavaScript"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
