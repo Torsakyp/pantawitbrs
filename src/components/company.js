@@ -39,6 +39,12 @@ const company = () => {
             class="m-auto"
           />
           <img
+            src={require("../assests/images/uni.jpg")}
+            alt="uni-logo"
+            width="100"
+            class="m-auto"
+          />
+          <img
             src={require("../assests/images/wait2-logo.png")}
             alt="wait-and-logo"
             width="100"
@@ -50,7 +56,6 @@ const company = () => {
             width="100"
             class="m-auto"
           />
-          
         </div>
       </div>
     </div>
