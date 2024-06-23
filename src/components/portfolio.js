@@ -296,6 +296,32 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Safesavethai"
+          span="Blog Website"
+          imgurl={require("../assests/images/web-safesavethai.png")}
+          alt="web-safesavethai"
+          weburl="https://safesavethai.com/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2024"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
+          title="Greenerbangkok"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-greener.png")}
+          alt="web-greenerbangkok"
+          weburl="https://greenerbangkok.com/"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2024"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
