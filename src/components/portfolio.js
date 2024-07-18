@@ -322,6 +322,32 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="TAM3D"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-tam.png")}
+          alt="web-tam3d"
+          weburl="https://www.tam3d.com/"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2024"
+          techs="Webflow, JavaScript"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
+          title="The New Modern Home"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-tnhm.png")}
+          alt="web-thenewmodernhome"
+          weburl="https://www.thenewmodernhome.com/"
+          cate="frontend developer(desktop/mobile)"
+          page="_blank"
+          period="2024"
+          techs="Webflow, JavaScript"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
