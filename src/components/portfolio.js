@@ -337,7 +337,7 @@ function Portfolio() {
         <Work
           title="The New Modern Home"
           span="Corporate Website"
-          imgurl={require("../assests/images/web-tnhm.png")}
+          imgurl={require("../assests/images/web-tnmh.png")}
           alt="web-thenewmodernhome"
           weburl="https://www.thenewmodernhome.com/"
           cate="frontend developer(desktop/mobile)"
