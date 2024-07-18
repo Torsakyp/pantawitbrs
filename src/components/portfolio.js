@@ -287,12 +287,12 @@ function Portfolio() {
           span="Corporate Website"
           imgurl={require("../assests/images/web-uni.png")}
           alt="web-uni"
-          weburl="https://www.un-titledlab.com/uni"
+          weburl=""
           cate="frontend developer(desktop/mobile)"
-          page="_blank"
+          page=""
           period="2024"
           techs="Webflow, JavaScript"
-          click="live product"
+          click="delivered"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
