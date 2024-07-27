@@ -45,6 +45,18 @@ const company = () => {
             class="m-auto"
           />
           <img
+            src={require("../assests/images/tam3d.svg")}
+            alt="tam3d-logo"
+            width="100"
+            class="m-auto"
+          />
+          <img
+            src={require("../assests/images/tnhm.jpg")}
+            alt="tnmh-logo"
+            width="100"
+            class="m-auto"
+          />
+          <img
             src={require("../assests/images/wait2-logo.png")}
             alt="wait-and-logo"
             width="100"
