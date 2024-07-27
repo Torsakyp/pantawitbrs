@@ -7,13 +7,19 @@ const company = () => {
       <div class="flex flex-col items-center w-full px-10 ">
         <p class="font-medium"> Company I have worked with </p>
         <div class="grid grid-cols-5 justify-items-center w-full mt-12 gap-y-10 md:grid-cols-2 md:gap-y-10">
-          <img
+          {/* <img
             src={require("../assests/images/logicspace-logo.png")}
             alt="logicspace-logo"
             width="150"
             class="m-auto"
+          /> */}
+          <img
+            src={require("../assests/images/1dd.png")}
+            alt="1dd-logo"
+            width="100"
+            class="m-auto"
           />
-          <img src={OneDDsvg} alt="1dd-logo" width="100" />
+          {/* <img src={OneDDsvg} alt="1dd-logo" width="100" /> */}
           <img
             src={require("../assests/images/sandstudio.png")}
             alt="sandstudio-logo"
@@ -45,13 +51,13 @@ const company = () => {
             class="m-auto"
           />
           <img
-            src={require("../assests/images/tam3d.svg")}
+            src={require("../assests/images/tam3d.png")}
             alt="tam3d-logo"
             width="100"
             class="m-auto"
           />
           <img
-            src={require("../assests/images/tnmh.jpg")}
+            src={require("../assests/images/tnmh.png")}
             alt="tnmh-logo"
             width="100"
             class="m-auto"
