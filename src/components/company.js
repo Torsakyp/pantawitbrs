@@ -57,7 +57,7 @@ const company = () => {
             class="m-auto"
           />
           <img
-            src={require("../assests/images/tnmh.jpg")}
+            src={require("../assests/images/tnmh.png")}
             alt="tnmh-logo"
             width="100"
             class="m-auto"
