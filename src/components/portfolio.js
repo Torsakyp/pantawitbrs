@@ -14,7 +14,7 @@ function Portfolio() {
       <section class="relative flex items-center justify-center h-screen w-full">
         <h1 class="text-6xl font-medium md:text-3xl">
           👋🏼&nbsp; Hi, I'm Tor! <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Frontend
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend
           Developer&nbsp;🧤
         </h1>
       </section>
