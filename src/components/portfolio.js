@@ -348,6 +348,19 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Sentio"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-sentio.png")}
+          alt="web-sentio"
+          weburl="https://sentiothailand.com/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2024"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
