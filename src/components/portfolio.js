@@ -244,19 +244,6 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
-          title="Seire Collective"
-          span="Ecommerce Website"
-          imgurl={require("../assests/images/web-seire.png")}
-          alt="web-seire"
-          weburl="https://seirecollective.com/"
-          cate="full-stack developer"
-          page="_blank"
-          period="2024"
-          techs="Shopify, JavaScript, VScode"
-          click="live product"
-        />
-        <hr class="my-10 h-px border-none bg-neutral-400" />
-        <Work
           title="Torry's"
           span="Ecommerce Website"
           imgurl={require("../assests/images/web-torrys.png")}
@@ -266,6 +253,19 @@ function Portfolio() {
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
+          title="Seire Collective"
+          span="Ecommerce Website"
+          imgurl={require("../assests/images/web-seire.png")}
+          alt="web-seire"
+          weburl="https://seirecollective.com/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2024"
+          techs="Shopify, JavaScript, VScode"
           click="live product"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
