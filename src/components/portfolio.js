@@ -363,7 +363,7 @@ function Portfolio() {
         <Work
           title="Good to Great"
           span="Ecommerce Website"
-          imgurl={require("../assests/images/web-g2g.jpeg")}
+          imgurl={require("../assests/images/web-g2g.png")}
           alt="web-g2g"
           weburl="https://goodtogreat.co.th/"
           cate="full-stack developer"
