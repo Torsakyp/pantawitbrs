@@ -361,6 +361,19 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Good to Great"
+          span="Ecommerce Website"
+          imgurl={require("../assests/images/web-g2g.png")}
+          alt="web-g2g"
+          weburl="https://goodtogreat.co.th/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2024"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
