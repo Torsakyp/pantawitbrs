@@ -350,7 +350,7 @@ function Portfolio() {
         <Work
           title="Sentio"
           span="Corporate Website"
-          imgurl={require("../assests/images/web-sentio-new.png")}
+          imgurl={require("../assests/images/web-sentio-v2.png")}
           alt="web-sentio"
           weburl="https://sentiothailand.com/"
           cate="full-stack developer"
