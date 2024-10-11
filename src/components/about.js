@@ -10,7 +10,7 @@ const about = () => {
           </h3>
           <div class="text-lg font-normal md:text-base">
             <p>developer with 2 year experience🧑🏻‍💻</p>
-            <br/>
+            <br />
             <p>part-time home dev🦭</p>
             <p>full-time 1dd dev🦦</p>
             {/* <p>
