@@ -374,6 +374,32 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Keimenkids"
+          span="Ecommerce Website"
+          imgurl={require("../assests/images/web-keimenkids.png")}
+          alt="web-keimenkids"
+          weburl="https://keimenkids.com/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2024"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
+          title="1DayGift"
+          span="Ecommerce Website"
+          imgurl={require("../assests/images/web-1day.png")}
+          alt="web-1day"
+          weburl="https://1daygift.co/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2024"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
