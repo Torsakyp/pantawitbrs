@@ -400,6 +400,19 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Chemo Aharon"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-chemo.png")}
+          alt="web-chomo-aharon"
+          weburl="https://chemo-aharon.com/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2024"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
