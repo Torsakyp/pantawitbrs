@@ -326,12 +326,12 @@ function Portfolio() {
           span="Corporate Website"
           imgurl={require("../assests/images/web-tam.png")}
           alt="web-tam3d"
-          weburl="https://www.tam3d.com/"
+          weburl=""
           cate="frontend developer(desktop/mobile)"
-          page="_blank"
+          page=""
           period="2024"
           techs="Webflow, JavaScript"
-          click="live product"
+          click="delivered"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -404,12 +404,12 @@ function Portfolio() {
           span="Corporate Website"
           imgurl={require("../assests/images/web-chemo.png")}
           alt="web-chomo-aharon"
-          weburl="https://chemo-aharon.com/"
+          weburl=""
           cate="full-stack developer"
-          page="_blank"
+          page=""
           period="2024"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="delivered"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
