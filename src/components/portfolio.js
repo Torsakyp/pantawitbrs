@@ -287,7 +287,7 @@ function Portfolio() {
           span="Corporate Website"
           imgurl={require("../assests/images/web-uni.png")}
           alt="web-uni"
-          weburl=""
+          weburl="javascript:void(0)"
           cate="frontend developer(desktop/mobile)"
           page=""
           period="2024"
@@ -326,7 +326,7 @@ function Portfolio() {
           span="Corporate Website"
           imgurl={require("../assests/images/web-tam.png")}
           alt="web-tam3d"
-          weburl=""
+          weburl="javascript:void(0)"
           cate="frontend developer(desktop/mobile)"
           page=""
           period="2024"
@@ -404,7 +404,7 @@ function Portfolio() {
           span="Corporate Website"
           imgurl={require("../assests/images/web-chemo.png")}
           alt="web-chomo-aharon"
-          weburl=""
+          weburl="javascript:void(0)"
           cate="full-stack developer"
           page=""
           period="2024"
