@@ -413,6 +413,19 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Hub of Talents in Natural Rubber"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-hub-nr.png")}
+          alt="web-hub-nr"
+          weburl="https://www.hubnr.com/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2025"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
