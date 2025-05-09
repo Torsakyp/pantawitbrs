@@ -426,6 +426,32 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Stonesurfaces"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-stone.png")}
+          alt="web-stonesurfaces"
+          weburl="https://stonesurfaces.co.th/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2025"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
+          title="158technology"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-158.png")}
+          alt="web-158technology"
+          weburl="https://158technology.com/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2025"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
