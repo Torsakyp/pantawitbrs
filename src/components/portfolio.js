@@ -452,6 +452,19 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="ROVE"
+          span="Ecommerce Website"
+          imgurl={require("../assests/images/web-rove.png")}
+          alt="web-rove"
+          weburl="https://roveth.com/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2025"
+          techs="Shopify, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
