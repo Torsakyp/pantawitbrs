@@ -386,7 +386,7 @@ function Portfolio() {
           click="live product"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
-        <Work
+        {/* <Work
           title="1DayGift"
           span="Ecommerce Website"
           imgurl={require("../assests/images/web-1day.png")}
@@ -398,7 +398,7 @@ function Portfolio() {
           techs="Wordpress, JavaScript, VScode"
           click="live product"
         />
-        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <hr class="my-10 h-px border-none bg-neutral-400" /> */}
         <Work
           title="Chemo Aharon"
           span="Corporate Website"
