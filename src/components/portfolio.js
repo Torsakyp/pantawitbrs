@@ -456,12 +456,12 @@ function Portfolio() {
           span="Ecommerce Website"
           imgurl={require("../assests/images/web-rove.png")}
           alt="web-rove"
-          weburl="https://roveth.com/"
+          weburl="javascript:void(0)"
           cate="full-stack developer"
-          page="_blank"
+          page=""
           period="2025"
           techs="Shopify, JavaScript, VScode"
-          click="live product"
+          click="delivered"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
