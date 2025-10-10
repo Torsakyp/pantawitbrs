@@ -491,7 +491,7 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
-          title="join me! :D"
+          title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
           alt="web-join-me"
