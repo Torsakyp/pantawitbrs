@@ -10,9 +10,9 @@ const intro = () => {
         width="200"
       />
       <p>🦦🎈😶‍🌫️🧢💫🥬🏸</p>
-      <br/>
-      <p>developer with 2 year experience🧑🏻‍💻</p>
-      <br/>
+      <br />
+      <p>:D 🧑🏻‍💻</p>
+      <br />
       <p>part-time home dev🦭</p>
       <p>full-time 1dd dev🦦</p>
     </div>
