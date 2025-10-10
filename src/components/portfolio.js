@@ -465,6 +465,32 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="INHPF"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-inhpf.png")}
+          alt="web-inhpf"
+          weburl="https://inhpf.org/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2025"
+          techs="Wordpress, JavaScript, VScode"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
+          title="Thai Investment Visa"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-thaiinvestmentvisa.png")}
+          alt="web-thaiinvestmentvisa"
+          weburl="https://thaiinvestmentvisa.com/"
+          cate="full-stack developer"
+          page="_blank"
+          period="2025"
+          techs="Webflow, JavaScript"
+          click="live product"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
