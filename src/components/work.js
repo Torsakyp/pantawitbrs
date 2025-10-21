@@ -1,8 +1,19 @@
 import React from "react";
 
 function work(props) {
-  const { title, span, weburl, cate, imgurl, page, period, techs, alt, click } =
-    props;
+  const {
+    title,
+    span,
+    weburl,
+    design,
+    dev,
+    imgurl,
+    page,
+    period,
+    techs,
+    alt,
+    click,
+  } = props;
 
   return (
     <div class="flex flex-row md:flex-col">
@@ -16,13 +27,13 @@ function work(props) {
         <p class="mb-1">Period | {period}</p>
         <p>Tech Stack | {techs}</p>
         <a
-          class="absolute bottom-6 mb-1 ml-1 lg:hidden xl:block "
+          class="absolute bottom-10 mb-1 ml-1 lg:hidden xl:block "
           href={weburl}
           target={page}
         >
           {click}
         </a>
-        <p class="text-sm absolute bottom-0 mb-1 ml-1 text-neutral-400 lg:hidden xl:block">
+        <p class="text-sm absolute bottom-5 mb-1 ml-1 text-neutral-400 lg:hidden xl:block">
           design by - {design}
         </p>
         <p class="text-sm absolute bottom-0 mb-1 ml-1 text-neutral-400 lg:hidden xl:block">
