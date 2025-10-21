@@ -17,12 +17,13 @@ const intro = () => {
       <p>full-time 1dd dev🦦</p>
       <br />
       <a
+        class="block"
         href="https://open.spotify.com/playlist/1UXpxnnJzWFKXp9HD9CUE9?si=fab1da1ff4094430"
         target="_blank"
       >
         spotify🎧
       </a>
-      <a href="https://www.youtube.com/@iiioare" target="_blank">
+      <a class="block" href="https://www.youtube.com/@iiioare" target="_blank">
         djing🎵
       </a>
     </div>
