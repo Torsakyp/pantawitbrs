@@ -23,7 +23,10 @@ function work(props) {
           {click}
         </a>
         <p class="text-sm absolute bottom-0 mb-1 ml-1 text-neutral-400 lg:hidden xl:block">
-          {cate}
+          design by - {design}
+        </p>
+        <p class="text-sm absolute bottom-0 mb-1 ml-1 text-neutral-400 lg:hidden xl:block">
+          development by - {dev}
         </p>
       </div>
       <div class="h-auto w-1/2 md:w-full">
@@ -42,8 +45,10 @@ function work(props) {
         {click}
       </a>
       <p class="xl:hidden md:block md:text-sm md:text-neutral-400 md:bottom-0 md:left-0 md:m-0">
-        {" "}
-        {cate}{" "}
+        design by - {design}
+      </p>
+      <p class="xl:hidden md:block md:text-sm md:text-neutral-400 md:bottom-0 md:left-0 md:m-0">
+        development by - {dev}
       </p>
     </div>
   );

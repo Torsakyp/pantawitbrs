@@ -28,7 +28,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-maison.png")}
           alt="web-maison"
           weburl="https://maisonhotelbangkok.com/"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2021"
           techs="Webflow, JavaScript"
@@ -41,7 +42,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-abhakara.png")}
           alt="web-abhakara"
           weburl="https://abhakara.org/"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2021"
           techs="Webflow, JavaScript"
@@ -54,7 +56,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-exe.png")}
           alt="web-exe"
           weburl="http://excellency.co.th/"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2021"
           techs="Webflow, JavaScript"
@@ -67,7 +70,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-oldposh.png")}
           alt="web-oldposh"
           weburl="http://oldposh.com/"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2021"
           techs="Webflow, JavaScript"
@@ -106,7 +110,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-sand.png")}
           alt="web-sand"
           weburl="https://sandstudio.co/"
-          cate="frontend developer(desktop/mobile)"
+          design="sandstudio.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2022"
           techs="Webflow, JavaScript, VScode"
@@ -119,7 +124,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-360.png")}
           alt="web-360"
           weburl="https://www.studio360th.com"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2023"
           techs="Webflow, JavaScript, VScode"
@@ -132,7 +138,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-kinnom.png")}
           alt="web-kinnom"
           weburl="https://kinnom.co/"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2023"
           techs="Wordpress, JavaScript, VScode"
@@ -145,7 +152,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-easyvisa.png")}
           alt="web-easyvisa"
           weburl="https://easyvisa.in.th"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2023"
           techs="Webflow, JavaScript, VScode"
@@ -158,7 +166,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-gamingdose.png")}
           alt="web-gameingdose"
           weburl="https://www.gamingdose.com/"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2023"
           techs="Wordpress, JavaScript, VScode"
@@ -171,7 +180,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-pavara.png")}
           alt="web-pavara"
           weburl="https://www.pavaragroup.com/"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2023"
           techs="Webflow, JavaScript"
@@ -184,7 +194,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-okamura.png")}
           alt="web-okamura"
           weburl="https://www.okamura.co.th/"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2023"
           techs="Wordpress, JavaScript, VScode"
@@ -197,7 +208,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-SM.png")}
           alt="web-sm"
           weburl="https://www.smlubritech1.com/"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2023"
           techs="Wordpress, JavaScript, VScode"
@@ -210,7 +222,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-hibiki.png")}
           alt="web-hibiki"
           weburl="https://www.hibikibrand.com/"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2023"
           techs="Wordpress, JavaScript, VScode"
@@ -223,7 +236,8 @@ function Portfolio() {
           imgurl={require("../assests/images/untitled-lab.png")}
           alt="web-untitled-lab"
           weburl="https://www.un-titledlab.com/"
-          cate="frontend developer(desktop/mobile)"
+          design="alin.studio"
+          dev="teeoarp.dev"
           page="_blank"
           period="2023"
           techs="Webflow, JavaScript"
@@ -236,7 +250,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-teb.png")}
           alt="web-teb"
           weburl="https://www.teb.co.th"
-          cate="frontend developer(desktop/mobile)"
+          design="alin.studio"
+          dev="teeoarp.dev"
           page="_blank"
           period="2023"
           techs="Webflow, JavaScript"
@@ -249,7 +264,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-torrys.png")}
           alt="web-torrys"
           weburl="https://www.torrys.com/"
-          cate="backend developer"
+          design="1dd.co"
+          dev="1dd.co & teeoarp.dev"
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
@@ -262,7 +278,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-seire.png")}
           alt="web-seire"
           weburl="https://seirecollective.com/"
-          cate="full-stack developer"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2024"
           techs="Shopify, JavaScript, VScode"
@@ -275,7 +292,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-environman.png")}
           alt="web-environman"
           weburl="https://environman.co.th/"
-          cate="full-stack developer"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
@@ -288,7 +306,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-uni.png")}
           alt="web-uni"
           weburl="javascript:void(0)"
-          cate="frontend developer(desktop/mobile)"
+          design="alin.studio"
+          dev="teeoarp.dev"
           page=""
           period="2024"
           techs="Webflow, JavaScript"
@@ -301,7 +320,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-safesavethai.png")}
           alt="web-safesavethai"
           weburl="https://safesavethai.com/"
-          cate="full-stack developer"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
@@ -314,7 +334,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-greener.png")}
           alt="web-greenerbangkok"
           weburl="https://greenerbangkok.com/"
-          cate="frontend developer(desktop/mobile)"
+          design="1dd.co"
+          dev="1dd.co & me"
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
@@ -327,7 +348,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-tam.png")}
           alt="web-tam3d"
           weburl="javascript:void(0)"
-          cate="frontend developer(desktop/mobile)"
+          design="alin.studio"
+          dev="teeoarp.dev"
           page=""
           period="2024"
           techs="Webflow, JavaScript"
@@ -340,7 +362,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-tnmh.png")}
           alt="web-thenewmodernhome"
           weburl="https://www.thenewmodernhome.com/"
-          cate="frontend developer(desktop/mobile)"
+          design="alin.studio"
+          dev="teeoarp.dev"
           page="_blank"
           period="2024"
           techs="Webflow, JavaScript"
@@ -353,7 +376,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-sentio-v2.png")}
           alt="web-sentio"
           weburl="https://sentiothailand.com/"
-          cate="full-stack developer"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
@@ -366,7 +390,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-g2g.png")}
           alt="web-g2g"
           weburl="https://goodtogreat.co.th/"
-          cate="full-stack developer"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
@@ -379,7 +404,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-keimenkids.png")}
           alt="web-keimenkids"
           weburl="https://keimenkids.com/"
-          cate="full-stack developer"
+          design="1dd.co"
+          dev="sprike.m & teeoarp.dev"
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
@@ -405,7 +431,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-chemo.png")}
           alt="web-chomo-aharon"
           weburl="javascript:void(0)"
-          cate="full-stack developer"
+          design="alin.studio"
+          dev="teeoarp.dev"
           page=""
           period="2024"
           techs="Wordpress, JavaScript, VScode"
@@ -418,7 +445,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-hub-nr.png")}
           alt="web-hub-nr"
           weburl="https://www.hubnr.com/"
-          cate="full-stack developer"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2025"
           techs="Wordpress, JavaScript, VScode"
@@ -431,7 +459,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-stone.png")}
           alt="web-stonesurfaces"
           weburl="https://stonesurfaces.co.th/"
-          cate="full-stack developer"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2025"
           techs="Wordpress, JavaScript, VScode"
@@ -444,7 +473,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-158.png")}
           alt="web-158technology"
           weburl="https://158technology.com/"
-          cate="full-stack developer"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2025"
           techs="Wordpress, JavaScript, VScode"
@@ -457,7 +487,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-rove.png")}
           alt="web-rove"
           weburl="javascript:void(0)"
-          cate="full-stack developer"
+          design="alin.studio"
+          dev="teeoarp.dev"
           page=""
           period="2025"
           techs="Shopify, JavaScript, VScode"
@@ -470,7 +501,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-inhpf.png")}
           alt="web-inhpf"
           weburl="https://inhpf.org/"
-          cate="full-stack developer"
+          design="1dd.co"
+          dev="teeoarp.dev"
           page="_blank"
           period="2025"
           techs="Wordpress, JavaScript, VScode"
@@ -483,7 +515,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-thaiinvestmentvisa.png")}
           alt="web-thaiinvestmentvisa"
           weburl="https://thaiinvestmentvisa.com/"
-          cate="full-stack developer"
+          design="alin.studio"
+          dev="teeoarp.dev"
           page="_blank"
           period="2025"
           techs="Webflow, JavaScript"
@@ -496,7 +529,8 @@ function Portfolio() {
           imgurl={require("../assests/images/web-join.png")}
           alt="web-join-me"
           weburl="mailto:pantawit.work@gmail.com"
-          cate="frontend developer , anything else"
+          design="you"
+          dev="me"
           page="_self"
           period="-"
           techs="-"
