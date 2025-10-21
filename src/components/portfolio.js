@@ -265,7 +265,7 @@ function Portfolio() {
           alt="web-torrys"
           weburl="https://www.torrys.com/"
           design="1dd.co"
-          dev="earthflex.dev & teeoarp.dev"
+          dev="earthflex.dev & me"
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"

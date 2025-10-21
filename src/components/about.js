@@ -13,6 +13,15 @@ const about = () => {
             <br />
             <p>part-time home dev🦭</p>
             <p>full-time 1dd dev🦦</p>
+            <br />
+            <br />
+            <a
+              href="https://open.spotify.com/playlist/1UXpxnnJzWFKXp9HD9CUE9?si=fab1da1ff4094430"
+              target="_blank"
+            >
+              spotify🎧
+            </a>
+
             {/* <p>
               I am a junior frontend developer with 6-7 month of experience.
               <br class="md:hidden" /> I have an interest in frontend developer
