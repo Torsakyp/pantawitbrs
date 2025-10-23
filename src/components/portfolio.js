@@ -33,7 +33,7 @@ function Portfolio() {
           page="_blank"
           period="2021"
           techs="Webflow, JavaScript"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -47,7 +47,7 @@ function Portfolio() {
           page="_blank"
           period="2021"
           techs="Webflow, JavaScript"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -61,7 +61,7 @@ function Portfolio() {
           page="_blank"
           period="2021"
           techs="Webflow, JavaScript"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -75,7 +75,7 @@ function Portfolio() {
           page="_blank"
           period="2021"
           techs="Webflow, JavaScript"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         {/* <Work
@@ -88,7 +88,7 @@ function Portfolio() {
           page="_self"
           period="Feb 2022"
           techs="VScode, Tailwind, React"
-          click="live product"
+          click="live website"
         /> */}
         {/* <hr class="my-10 h-px border-none bg-neutral-400" /> */}
         {/* <Work
@@ -101,7 +101,7 @@ function Portfolio() {
           page="_blank"
           period="Apr 2022"
           techs="Webflow, JavaScript, VScode"
-          click="live product"
+          click="live website"
         /> */}
         {/* <hr class="my-10 h-px border-none bg-neutral-400" /> */}
         <Work
@@ -115,7 +115,7 @@ function Portfolio() {
           page="_blank"
           period="2022"
           techs="Webflow, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -129,7 +129,7 @@ function Portfolio() {
           page="_blank"
           period="2023"
           techs="Webflow, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -143,7 +143,7 @@ function Portfolio() {
           page="_blank"
           period="2023"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -157,7 +157,7 @@ function Portfolio() {
           page="_blank"
           period="2023"
           techs="Webflow, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -171,7 +171,7 @@ function Portfolio() {
           page="_blank"
           period="2023"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -185,7 +185,7 @@ function Portfolio() {
           page="_blank"
           period="2023"
           techs="Webflow, JavaScript"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -199,7 +199,7 @@ function Portfolio() {
           page="_blank"
           period="2023"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -213,7 +213,7 @@ function Portfolio() {
           page="_blank"
           period="2023"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -227,7 +227,7 @@ function Portfolio() {
           page="_blank"
           period="2023"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -241,7 +241,7 @@ function Portfolio() {
           page="_blank"
           period="2023"
           techs="Webflow, JavaScript"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -255,7 +255,7 @@ function Portfolio() {
           page="_blank"
           period="2023"
           techs="Webflow, JavaScript"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -269,7 +269,7 @@ function Portfolio() {
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -283,7 +283,7 @@ function Portfolio() {
           page="_blank"
           period="2024"
           techs="Shopify, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -297,7 +297,7 @@ function Portfolio() {
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -325,7 +325,7 @@ function Portfolio() {
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -339,7 +339,7 @@ function Portfolio() {
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -367,7 +367,7 @@ function Portfolio() {
           page="_blank"
           period="2024"
           techs="Webflow, JavaScript"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -381,7 +381,7 @@ function Portfolio() {
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -395,7 +395,7 @@ function Portfolio() {
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -409,7 +409,7 @@ function Portfolio() {
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         {/* <Work
@@ -422,7 +422,7 @@ function Portfolio() {
           page="_blank"
           period="2024"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" /> */}
         <Work
@@ -450,7 +450,7 @@ function Portfolio() {
           page="_blank"
           period="2025"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -464,7 +464,7 @@ function Portfolio() {
           page="_blank"
           period="2025"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -478,7 +478,7 @@ function Portfolio() {
           page="_blank"
           period="2025"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -506,7 +506,7 @@ function Portfolio() {
           page="_blank"
           period="2025"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -520,7 +520,7 @@ function Portfolio() {
           page="_blank"
           period="2025"
           techs="Webflow, JavaScript"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
@@ -534,7 +534,7 @@ function Portfolio() {
           page="_blank"
           period="2025"
           techs="Wordpress, JavaScript, VScode"
-          click="live product"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
