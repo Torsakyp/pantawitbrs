@@ -81,6 +81,13 @@ const company = () => {
             class="m-auto"
           />
           <img
+            src={require("../assests/images/livingcare.png")}
+            alt="tiv-logo"
+            width="100"
+            class="m-auto"
+          />
+
+          <img
             src={require("../assests/images/wait2-logo.png")}
             alt="wait-and-logo"
             width="100"
