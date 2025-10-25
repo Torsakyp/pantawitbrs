@@ -20,7 +20,10 @@ function work(props) {
       <div class="relative h-auto w-1/2 md:w-full">
         <p class="text-2xl mb-2.5">
           {title}
-          <span class="italic font-lg absolute -top-2 ml-1 font-normal text-neutral-400 md:text-base">
+          <span
+            class="italic font-lg absolute -top-2 ml-1 font-normal text-neutral-400 md:text-base
+          md:right-0 text-nowrap"
+          >
             {span}
           </span>
         </p>
