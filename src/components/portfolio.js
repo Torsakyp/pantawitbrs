@@ -489,7 +489,7 @@ function Portfolio() {
           weburl="https://www.solisseclinic.com/"
           design="alin.studio"
           dev="me"
-          page=""
+          page="_blank"
           period="2025"
           techs="Shopify, JavaScript, VScode"
           click="delivered"
