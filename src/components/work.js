@@ -52,7 +52,10 @@ function work(props) {
       </div>
       <a
         class="xl:hidden md:block lg:underline lg:mb-1"
-        href={weburl}
+        href={weburl || "#"}
+        onClick={(e) => {
+          if (!weburl || weburl.trim() === "") e.preventDefault();
+        }}
         target={page}
         rel="noreferrer"
       >
