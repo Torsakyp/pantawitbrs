@@ -305,7 +305,7 @@ function Portfolio() {
           span="Corporate Website"
           imgurl={require("../assests/images/web-uni.png")}
           alt="web-uni"
-          weburl="javascript:void(0)"
+          weburl=" "
           design="alin.studio"
           dev="me"
           page=""
@@ -347,7 +347,7 @@ function Portfolio() {
           span="Corporate Website"
           imgurl={require("../assests/images/web-tam.png")}
           alt="web-tam3d"
-          weburl="javascript:void(0)"
+          weburl=" "
           design="alin.studio"
           dev="me"
           page=""
@@ -430,7 +430,7 @@ function Portfolio() {
           span="Corporate Website"
           imgurl={require("../assests/images/web-chemo.png")}
           alt="web-chomo-aharon"
-          weburl="javascript:void(0)"
+          weburl=" "
           design="alin.studio"
           dev="me"
           page=""
@@ -486,7 +486,7 @@ function Portfolio() {
           span="Ecommerce Website"
           imgurl={require("../assests/images/web-rove.png")}
           alt="web-rove"
-          weburl="javascript:void(0)"
+          weburl=" "
           design="alin.studio"
           dev="me"
           page=""
