@@ -1,5 +1,5 @@
 import React from "react";
-import OneDDsvg from "../assests/images/1dd-logo.svg";
+// import OneDDsvg from "../assests/images/1dd-logo.svg";
 
 const company = () => {
   return (

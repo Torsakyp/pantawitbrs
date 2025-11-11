@@ -17,6 +17,7 @@ const about = () => {
             <br />
             <a
               href="https://open.spotify.com/playlist/1UXpxnnJzWFKXp9HD9CUE9?si=fab1da1ff4094430"
+              rel="noopener noreferrer"
               target="_blank"
             >
               spotify🎧
