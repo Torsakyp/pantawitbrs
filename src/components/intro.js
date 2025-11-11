@@ -20,10 +20,16 @@ const intro = () => {
         class="block"
         href="https://open.spotify.com/playlist/1UXpxnnJzWFKXp9HD9CUE9?si=fab1da1ff4094430"
         target="_blank"
+        rel="noopener noreferrer"
       >
         spotify🎧
       </a>
-      <a class="block" href="https://www.youtube.com/@iiioare" target="_blank">
+      <a
+        class="block"
+        href="https://www.youtube.com/@iiioare"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         djing🎵
       </a>
     </div>
