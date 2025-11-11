@@ -491,8 +491,8 @@ function Portfolio() {
           dev="me"
           page="_blank"
           period="2025"
-          techs="Shopify, JavaScript, VScode"
-          click="delivered"
+          techs="Wordpress, JavaScript, VScode"
+          click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
