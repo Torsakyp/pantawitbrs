@@ -31,7 +31,10 @@ function work(props) {
         <p>Tech Stack | {techs}</p>
         <a
           class="absolute bottom-10 mb-1 ml-1 lg:hidden xl:block "
-          href={weburl}
+          href={weburl || "#"}
+          onClick={(e) => {
+            if (!weburl || weburl.trim() === "") e.preventDefault();
+          }}
           target={page}
         >
           {click}
