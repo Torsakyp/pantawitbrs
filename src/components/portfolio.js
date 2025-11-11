@@ -3,7 +3,7 @@ import Navbar from "./navbar";
 import Work from "./work";
 import Intro from "./intro";
 import Company from "./company";
-import About from "./about";
+// import About from "./about";
 import Contact from "./contact";
 // import ScrollToTop from "react-scroll-to-top";
 
