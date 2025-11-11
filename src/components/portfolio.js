@@ -482,6 +482,20 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Solisse"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-solisse.png")}
+          alt="web-solisse"
+          weburl="https://www.solisseclinic.com/"
+          design="alin.studio"
+          dev="me"
+          page=""
+          period="2025"
+          techs="Shopify, JavaScript, VScode"
+          click="delivered"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="ROVE"
           span="Ecommerce Website"
           imgurl={require("../assests/images/web-rove.png")}
