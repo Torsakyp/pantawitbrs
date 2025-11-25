@@ -552,6 +552,20 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Folinelube"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-folinelube.png")}
+          alt="web-folinelube"
+          weburl="https://www.folinelube.com/"
+          design="1dd.co"
+          dev="me"
+          page="_blank"
+          period="2025"
+          techs="Wordpress, JavaScript, VScode"
+          click="live website"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
