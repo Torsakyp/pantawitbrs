@@ -565,6 +565,37 @@ function Portfolio() {
           click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
+
+        <Work
+          title="Infinite Automobile"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-infinite.png")}
+          alt="web-infinite"
+          weburl="https://infiniteautomobile.com/"
+          design="1dd.co"
+          dev="1dd.co & me"
+          page="_blank"
+          period="2026"
+          techs="Wordpress, JavaScript, VScode"
+          click="live website"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+
+        <Work
+          title="Salary Hero"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-salary-hero.png")}
+          alt="web-salary-hero"
+          weburl="https://www.salary-hero.com/"
+          design="client"
+          dev="me"
+          page="_blank"
+          period="2026"
+          techs="Wordpress, JavaScript, VScode"
+          click="live website"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+
         <Work
           title="join me!"
           span="Awesome Website"
