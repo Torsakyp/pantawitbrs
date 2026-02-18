@@ -440,6 +440,20 @@ function Portfolio() {
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
+          title="Mermaidsardine"
+          span="Ecommerce Website"
+          imgurl={require("../assests/images/web-mermaidsardine.png")}
+          alt="web-mermaidsardine"
+          weburl="https://mermaidsardine.com/"
+          design="alin.studio"
+          dev="me"
+          page="_blank"
+          period="2024"
+          techs="Shopify, JavaScript, VScode"
+          click="live website"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+        <Work
           title="Hub of Talents in Natural Rubber"
           span="Corporate Website"
           imgurl={require("../assests/images/web-hub-nr.png")}
