@@ -579,7 +579,20 @@ function Portfolio() {
           click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
-
+        <Work
+          title="Inter Rubber Parts"
+          span="Corporate Website"
+          imgurl={require("../assests/images/web-interrubber.png")}
+          alt="web-interrubberparts"
+          weburl="https://www.interrubberparts.com/"
+          design="1dd.co"
+          dev="me"
+          page="_blank"
+          period="2025"
+          techs="Wordpress, JavaScript, VScode"
+          click="live website"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
         <Work
           title="Infinite Automobile"
           span="Corporate Website"
