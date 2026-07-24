@@ -624,6 +624,21 @@ function Portfolio() {
         <hr class="my-10 h-px border-none bg-neutral-400" />
 
         <Work
+          title="Marmoris"
+          span="Ecommerce Website"
+          imgurl={require("../assests/images/web-marmoris.png")}
+          alt="web-marmoris"
+          weburl="https://marmoris.com/"
+          design="1dd.co"
+          dev="me"
+          page="_blank"
+          period="2026"
+          techs="Shopify, JavaScript, VScode"
+          click="live website"
+        />
+        <hr class="my-10 h-px border-none bg-neutral-400" />
+
+        <Work
           title="join me!"
           span="Awesome Website"
           imgurl={require("../assests/images/web-join.png")}
