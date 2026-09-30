@@ -648,7 +648,7 @@ function Portfolio() {
           dev="earthflex & me"
           page="_blank"
           period="2026"
-          techs="Shopify, JavaScript, VScode"
+          techs="Wordpress, JavaScript, VScode"
           click="live website"
         />
         <hr class="my-10 h-px border-none bg-neutral-400" />
